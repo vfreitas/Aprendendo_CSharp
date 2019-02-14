@@ -1,0 +1,5 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/6-AtribuicoesDeVariaveis/obj/x86/Debug/6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/6-AtribuicoesDeVariaveis/bin/Debug/6-AtribuicoesDeVariaveis.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/6-AtribuicoesDeVariaveis/bin/Debug/6-AtribuicoesDeVariaveis.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/6-AtribuicoesDeVariaveis/obj/x86/Debug/6-AtribuicoesDeVariaveis.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/6-AtribuicoesDeVariaveis/obj/x86/Debug/6-AtribuicoesDeVariaveis.pdb

@@ -1,0 +1,5 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/3-CriandoVariaveisPontoFlutuante/obj/x86/Debug/3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/3-CriandoVariaveisPontoFlutuante/bin/Debug/3-CriandoVariaveisPontoFlutuante.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/3-CriandoVariaveisPontoFlutuante/bin/Debug/3-CriandoVariaveisPontoFlutuante.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/3-CriandoVariaveisPontoFlutuante/obj/x86/Debug/3-CriandoVariaveisPontoFlutuante.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/3-CriandoVariaveisPontoFlutuante/obj/x86/Debug/3-CriandoVariaveisPontoFlutuante.pdb

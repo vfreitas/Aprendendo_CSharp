@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ProjetoTESTE", "1-ProjetoTESTE\1-ProjetoTESTE.csproj", "{930C4A73-ED7A-4404-8BD5-41009AFCE419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{65EF6271-DAD2-4F2B-AC22-7975D12F3A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{3A979A85-B550-47CD-AEBB-1ACA2D372D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Conversoes_Tipos_Numericos", "4-Conversoes_Tipos_Numericos\4-Conversoes_Tipos_Numericos.csproj", "{055A0020-BA9F-41DE-8714-5B9694DC6EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresTextos", "5-CaracteresTextos\5-CaracteresTextos.csproj", "{D62F9E96-FAE5-4712-BF16-9EB46B96BCF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{C7EC61F4-B7DB-42DD-A876-435474BB9BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930C4A73-ED7A-4404-8BD5-41009AFCE419}.Debug|x86.ActiveCfg = Debug|x86
+		{930C4A73-ED7A-4404-8BD5-41009AFCE419}.Debug|x86.Build.0 = Debug|x86
+		{930C4A73-ED7A-4404-8BD5-41009AFCE419}.Release|x86.ActiveCfg = Release|x86
+		{930C4A73-ED7A-4404-8BD5-41009AFCE419}.Release|x86.Build.0 = Release|x86
+		{65EF6271-DAD2-4F2B-AC22-7975D12F3A49}.Debug|x86.ActiveCfg = Debug|x86
+		{65EF6271-DAD2-4F2B-AC22-7975D12F3A49}.Debug|x86.Build.0 = Debug|x86
+		{65EF6271-DAD2-4F2B-AC22-7975D12F3A49}.Release|x86.ActiveCfg = Release|x86
+		{65EF6271-DAD2-4F2B-AC22-7975D12F3A49}.Release|x86.Build.0 = Release|x86
+		{3A979A85-B550-47CD-AEBB-1ACA2D372D07}.Debug|x86.ActiveCfg = Debug|x86
+		{3A979A85-B550-47CD-AEBB-1ACA2D372D07}.Debug|x86.Build.0 = Debug|x86
+		{3A979A85-B550-47CD-AEBB-1ACA2D372D07}.Release|x86.ActiveCfg = Release|x86
+		{3A979A85-B550-47CD-AEBB-1ACA2D372D07}.Release|x86.Build.0 = Release|x86
+		{055A0020-BA9F-41DE-8714-5B9694DC6EA2}.Debug|x86.ActiveCfg = Debug|x86
+		{055A0020-BA9F-41DE-8714-5B9694DC6EA2}.Debug|x86.Build.0 = Debug|x86
+		{055A0020-BA9F-41DE-8714-5B9694DC6EA2}.Release|x86.ActiveCfg = Release|x86
+		{055A0020-BA9F-41DE-8714-5B9694DC6EA2}.Release|x86.Build.0 = Release|x86
+		{D62F9E96-FAE5-4712-BF16-9EB46B96BCF0}.Debug|x86.ActiveCfg = Debug|x86
+		{D62F9E96-FAE5-4712-BF16-9EB46B96BCF0}.Debug|x86.Build.0 = Debug|x86
+		{D62F9E96-FAE5-4712-BF16-9EB46B96BCF0}.Release|x86.ActiveCfg = Release|x86
+		{D62F9E96-FAE5-4712-BF16-9EB46B96BCF0}.Release|x86.Build.0 = Release|x86
+		{C7EC61F4-B7DB-42DD-A876-435474BB9BE6}.Debug|x86.ActiveCfg = Debug|x86
+		{C7EC61F4-B7DB-42DD-A876-435474BB9BE6}.Debug|x86.Build.0 = Debug|x86
+		{C7EC61F4-B7DB-42DD-A876-435474BB9BE6}.Release|x86.ActiveCfg = Release|x86
+		{C7EC61F4-B7DB-42DD-A876-435474BB9BE6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

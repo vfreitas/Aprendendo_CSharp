@@ -1,0 +1,6 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/bin/Debug/1-ProjetoTESTE.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/bin/Debug/1-ProjetoTESTE.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/obj/x86/Debug/1-ProjetoTESTE.csprojAssemblyReference.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/obj/x86/Debug/1-ProjetoTESTE.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/obj/x86/Debug/1-ProjetoTESTE.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/1-ProjetoTESTE/obj/x86/Debug/1-ProjetoTESTE.pdb

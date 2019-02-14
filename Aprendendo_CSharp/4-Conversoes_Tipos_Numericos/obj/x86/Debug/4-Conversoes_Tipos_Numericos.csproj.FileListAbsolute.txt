@@ -1,0 +1,5 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/4-Conversoes_Tipos_Numericos/bin/Debug/4-Conversoes_Tipos_Numericos.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/4-Conversoes_Tipos_Numericos/bin/Debug/4-Conversoes_Tipos_Numericos.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/4-Conversoes_Tipos_Numericos/obj/x86/Debug/4-Conversoes_Tipos_Numericos.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/4-Conversoes_Tipos_Numericos/obj/x86/Debug/4-Conversoes_Tipos_Numericos.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/4-Conversoes_Tipos_Numericos/obj/x86/Debug/4-Conversoes_Tipos_Numericos.pdb

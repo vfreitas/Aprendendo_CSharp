@@ -1,0 +1,5 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/2-CriandoVariaveis/bin/Debug/2-CriandoVariaveis.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/2-CriandoVariaveis/bin/Debug/2-CriandoVariaveis.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/2-CriandoVariaveis/obj/x86/Debug/2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/2-CriandoVariaveis/obj/x86/Debug/2-CriandoVariaveis.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/2-CriandoVariaveis/obj/x86/Debug/2-CriandoVariaveis.pdb

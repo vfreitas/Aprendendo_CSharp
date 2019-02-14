@@ -1,0 +1,5 @@
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/5-CaracteresTextos/bin/Debug/5-CaracteresTextos.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/5-CaracteresTextos/bin/Debug/5-CaracteresTextos.pdb
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/5-CaracteresTextos/obj/x86/Debug/5-CaracteresTextos.csproj.CoreCompileInputs.cache
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/5-CaracteresTextos/obj/x86/Debug/5-CaracteresTextos.exe
+/Users/victor.fsantos13/Projects/Aprendendo_CSharp/5-CaracteresTextos/obj/x86/Debug/5-CaracteresTextos.pdb
